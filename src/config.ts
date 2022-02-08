@@ -31,9 +31,9 @@ export const tradingTokens = [
   ERC20Token.WMATIC,
   ERC20Token.WBTC,
   ERC20Token.LINK,
-  ERC20Token.COMP,
-  ERC20Token.CEL,
-  ERC20Token.CRV,
+  //ERC20Token.COMP,
+  //ERC20Token.CEL,
+  //ERC20Token.CRV,
 ];
 
 /**
